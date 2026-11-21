@@ -1,0 +1,4 @@
+order_id,buyer,product,qty,price_yuan,order_date
+1002,Bob,book,1,29.9,2026-11-02
+1004,Dan,pen,1,9.9,2026-11-04
+1005,Eve,notebook,2,15.0,2026-11-05
